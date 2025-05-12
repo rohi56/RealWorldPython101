@@ -1,4 +1,4 @@
-# 🐍 RealWorldPython101
+#  RealWorldPython101
 
 Welcome to **RealWorldPython101** – a curated and beginner-friendly Python learning series designed for anyone who wants to learn Python by solving **real-world problem statements**.
 
